@@ -4,9 +4,8 @@ Allows dynamic meshing in 2D planar and axisymmetric geometries.
 Based on the OpenFOAM  3D dynamic meshing.
 
 
-Author:        Ahmad Baniabedalruhman
-Version:       Developed and tested for OpenFOAM-2.1.x
-Installation:  Franz X. Tanner
+Author:        K Srinivasa Sagar (Original code: Ahmad Baniabedalruhman)
+Version:       Adapted to OpenFOAM 2.4.0
 
 Installation/Compiling
 ----------------------
