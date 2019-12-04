@@ -1,0 +1,10 @@
+# dropSizeDistribution: VERSION = 2012-02-06:1900
+# Weighted calculation of droplet centroid, volume & radius
+# Using alpha threshold = 0.005
+# Overall domain bounding box (-0.015 -0.003 -0.001) (0.015 0.003 0.001)
+# Mesh (non-empty, non-wedge) directions (1 1 0)
+# Mesh (non-empty) directions (1 1 0)
+# Drop size calculated using 2D case.
+
+# X Y Z Vol Rad
+4.67473e-21 2.99183e-20 -1.86989e-21 6.75e-09 0.00103648

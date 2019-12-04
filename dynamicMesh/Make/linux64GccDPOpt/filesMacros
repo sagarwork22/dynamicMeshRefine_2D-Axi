@@ -1,0 +1,2 @@
+polyTopoChange = polyTopoChange/polyTopoChange
+LIB = $(FOAM_USER_LIBBIN)/libdynamicMesh_2D+Axi

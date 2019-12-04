@@ -1,0 +1,3 @@
+OBJECTS = \
+$(OBJECTS_DIR)/hexRef82D.o\
+$(OBJECTS_DIR)/hexRef8axi.o

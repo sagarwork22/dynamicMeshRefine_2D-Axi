@@ -1,0 +1,16 @@
+EXE_INC = \
+    -I$(LIB_SRC)/triSurface/lnInclude \
+    -I$(LIB_SRC)/meshTools/lnInclude \
+    -I$(LIB_SRC)/finiteVolume/lnInclude \
+    -I$(LIB_SRC)/dynamicMesh/lnInclude \
+    -I$(LIB_SRC)/dynamicFvMesh/lnInclude \
+    -I$(FOAM_SRC)/fvMotionSolver/lnInclude \
+    -I$(WM_PROJECT_USER_DIR)/src/dynamicMeshRefine_2D+Axi/dynamicMesh/lnInclude
+
+LIB_LIBS = \
+    -ltriSurface \
+    -lmeshTools \
+    -lfiniteVolume \
+    -ldynamicMesh \
+    -ldynamicFvMesh \
+    -lfvMotionSolvers
